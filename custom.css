@@ -1,0 +1,16 @@
+.exclaim .reveal .state-background {
+  background: purple;
+} 
+
+.exclaim .reveal div {
+  color: white;
+  font-family: 'Lacquer';
+}
+
+.exclaim .reveal code {
+  color: red;
+}
+
+.reveal section del {
+  color: green;
+}
